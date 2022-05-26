@@ -1,0 +1,302 @@
+.dark-mode .custom-control-label::before, .dark-mode .custom-file-label, .dark-mode .custom-file-label::after, .dark-mode .custom-select, .dark-mode .form-control, .dark-mode .input-group-text {
+    background-color: #ffffff !important;
+    color: #353333;
+}
+
+.card {
+    position: relative;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-direction: column;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #d9d9d9;
+    background-clip: border-box;
+    border: 0 solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+}
+
+.fundo-branco{
+    background-color: #fff;
+}
+
+.qtd{
+
+    font-size: 25px;
+}
+
+.t-20{
+    width: 20px;
+}
+
+.t-30{
+    width: 30px;
+}
+
+.t-40{
+    width: 40px;
+}
+
+.t-60{
+    width: 60px;
+}
+
+.t-80{
+    width: 80px;
+}
+
+.t-100{
+    width: 10%;
+}
+.t-300{
+    width: 28%;
+}
+
+.badge-secondary {
+    color: #fff;
+    background-color: #103fdb;
+}
+
+
+.altura-70{
+    height: 70px;
+}
+.altura-133{
+    height: 133px;
+}
+
+.centro{
+    text-align: center;
+}
+
+.esquerda{
+
+    text-align: left;
+}
+
+.direita{
+    text-align: right;
+}
+.texto-p{
+    font-size: 18px;
+}
+
+.texto-grande{
+
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+.texto-receber{
+
+    color:#00a70e;
+    font-size: 26px;
+    text-transform: uppercase;
+}
+
+.caixa-texto{
+
+    color:#000000;
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+.pedido{
+
+    color:#ff0000;
+    font-size: 28px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+
+.delete{
+
+    color:#e40026;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+.edit{
+
+    color:#074e91;
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.largura{
+
+    height: 100px;
+}
+
+.lg-150{
+    width: 190px;
+}
+
+.lg-50{
+    width: 120px;
+}
+
+.lg-30{
+    width: 70px;
+}
+
+.lg-60{
+
+    font-size:60px;
+}
+
+.troco{
+    font-size:70px;
+    font-weight: bold;
+}
+
+.verde{
+    color:rgb(2, 139, 36);
+    font-weight: 700;
+    font-size: 30px;
+}
+
+.st-verde{
+    color: #00a70e;
+}
+.st-vermelho{
+    color: #ff5f5f;
+}
+
+.texto-menu{
+
+    font-size: 23px;
+}
+
+.texto-botao{
+
+    color:#fff;
+    font-size: 33px;
+}
+
+.margin-50{
+
+    margin-top: 100px;
+}
+
+.calculo{
+
+    color: rgb(3, 126, 109);
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.imgs{
+
+    width: 100px;
+    height:100px;
+}
+
+.foto{
+
+    width: 200px;
+    height:190px;
+}
+
+.texto-medio{
+
+    font-size: 20px;
+    text-transform: uppercase;
+}
+
+.texto-carrinho{
+
+    font-size: 22px;
+    text-transform: uppercase;
+}
+
+
+.caixa-alta{
+    text-transform: uppercase !important;
+}
+
+.ocultar{
+
+    display: none;
+}
+
+.acao{
+    width:190px;
+    text-align:center
+}
+
+.lg-120{
+    width:230px;
+    text-align:center
+}
+
+.lg-60{
+    width:130px;
+    text-align:center
+}
+
+.cabecalho{
+    color:rgb(3, 3, 3);
+    font-weight: 400;
+    font-size: 20px;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    color: #444;
+    line-height: 28px;
+    text-transform: uppercase;
+}
+
+.select2-container--default .select2-results__option {
+    padding: 6px 12px;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    text-transform: uppercase;
+}
+
+.select2-container--default .select2-selection--single .select2-selection__rendered {
+    padding-left: 0;
+    height: auto;
+    margin-top: -3px;
+    text-transform: uppercase;
+}
+
+.badge-info {
+    color: #101010;
+    background-color: #f1b50057;
+}
+
+.pg{
+    background-color:#e70000;
+    color:#ffffff;
+    border:none;
+    font-weight:600; 
+    text-transform:uppercase; 
+    font-size:26px
+}
+
+.pgr{
+    background-color:#14345e;
+    color:#ffffff;
+    border:none;
+    font-weight:600; 
+    text-transform:uppercase; 
+    font-size:26px
+}
+
+.form-control:disabled, .form-control[readonly] {
+    background-color: #ffcf32;
+    color: #101010;
+    font-size:26px;
+    opacity: 1;
+}
+
+.mov-edi{
+    border:none !important; 
+    background-color:#a20808;
+    color:#fff;
+    font-size:26px;
+    font-weight:600
+}
